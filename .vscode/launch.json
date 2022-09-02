@@ -1,0 +1,65 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+
+        {
+            "type": "java",
+            "name": "Launch interfazusuario",
+            "request": "launch",
+            "mainClass": "TE1.src.interfazusuario",
+            "projectName": "TE_7c8d295e",
+            "vmArgs": "--module-path \"C:/Users/eemma/OneDrive/Escritorio/javafx-sdk-18.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch interfazusuario",
+            "request": "launch",
+            "mainClass": "TE1.src.interfazusuario",
+            "projectName": "TE1_9ec50fc0",
+            "vmArgs": "--module-path \"C:/Users/eemma/OneDrive/Escritorio/javafx-sdk-18.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch LectorCSV",
+            "request": "launch",
+            "mainClass": "TE1.src.LectorCSV",
+            "projectName": "TE1_15180293",
+            "vmArgs": "--module-path \"C:/Users/eemma/OneDrive/Escritorio/javafx-sdk-18.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch interfazusuario",
+            "request": "launch",
+            "mainClass": "TE1.src.interfazusuario",
+            "projectName": "TE1_15180293",
+            "vmArgs": "--module-path \"C:/Users/eemma/OneDrive/Escritorio/javafx-sdk-18.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch LectorCSV",
+            "request": "launch",
+            "mainClass": "LectorCSV",
+            "projectName": "TE1_15180293",
+            "vmArgs": "--module-path \"C:/Users/eemma/OneDrive/Escritorio/javafx-sdk-18.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "vmArgs": "--module-path \"C:/Users/eemma/OneDrive/Escritorio/javafx-sdk-18.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "TE1_15180293",
+            "vmArgs": "--module-path \"C:/Users/eemma/OneDrive/Escritorio/javafx-sdk-18.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
